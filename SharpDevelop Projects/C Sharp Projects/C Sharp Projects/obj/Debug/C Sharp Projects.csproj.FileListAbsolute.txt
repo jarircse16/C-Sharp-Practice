@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\C Sharp Projects\C Sharp Projects\bin\Debug\C Sharp Projects.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\C Sharp Projects\C Sharp Projects\bin\Debug\C Sharp Projects.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\C Sharp Projects\C Sharp Projects\obj\Debug\C Sharp Projects.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\C Sharp Projects\C Sharp Projects\obj\Debug\C Sharp Projects.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\C Sharp Projects\C Sharp Projects\obj\Debug\C Sharp Projects.pdb
